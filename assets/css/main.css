@@ -96,6 +96,14 @@ video {
   vertical-align: baseline;
 }
 
+.pics {
+  padding-top: 10px;
+}
+
+.sike {
+  font-size: large;
+}
+
 article,
 aside,
 details,
@@ -2807,7 +2815,6 @@ input[type="button"]:disabled,
   margin-top: 0;
   padding-top: 0;
 }
-
 
 /* Poptrox */
 
