@@ -122,6 +122,14 @@ body {
   line-height: 1;
 }
 
+body::-webkit-scrollbar {
+  background: #1f1815;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: purple;
+}
+
 ol,
 ul {
   list-style: none;
